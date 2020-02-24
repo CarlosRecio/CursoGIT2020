@@ -1,0 +1,7 @@
+#ignoramos todos los ficheros temporales de edicion
+*~
+#ignoramos todos los ficheros *.o or *.a
+*.[oa]
+
+#ignoramos todos los ficheros *.log
+*.log
